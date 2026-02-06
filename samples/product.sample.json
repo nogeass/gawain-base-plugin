@@ -1,0 +1,35 @@
+{
+  "item_id": 1234567890,
+  "title": "Premium Wireless Headphones",
+  "detail": "Experience crystal-clear sound with our premium wireless headphones.\n\nFeatures:\n- 40-hour battery life\n- Active noise cancellation\n- Comfortable over-ear design",
+  "price": 29800,
+  "stock": 100,
+  "visible": 1,
+  "list_order": 1,
+  "identifier": "HEADPHONES-001",
+  "img1_origin": "https://example.com/images/headphones-front.jpg",
+  "img2_origin": "https://example.com/images/headphones-side.jpg",
+  "img3_origin": "https://example.com/images/headphones-case.jpg",
+  "img4_origin": null,
+  "img5_origin": null,
+  "variations": [
+    {
+      "variation_id": 2001,
+      "variation": "Black",
+      "variation_stock": 50,
+      "variation_identifier": "HEADPHONES-BLK"
+    },
+    {
+      "variation_id": 2002,
+      "variation": "White",
+      "variation_stock": 30,
+      "variation_identifier": "HEADPHONES-WHT"
+    },
+    {
+      "variation_id": 2003,
+      "variation": "Navy Blue",
+      "variation_stock": 20,
+      "variation_identifier": "HEADPHONES-NVY"
+    }
+  ]
+}
